@@ -1,0 +1,3 @@
+[submodule "submod"]
+	path = submod
+	url = git@https://github.com/alammasoodi/gitproficiency_b
