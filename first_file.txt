@@ -23,9 +23,9 @@ Year by the People of the several States, and the Electors in each State must
 have the Qualifications requisite for Electors of the most numerous Branch of
 the State Legislature.
 
-No Person must be a Representative who shall not have attained to the Age of
+No Person must be a Representative who must not have attained to the Age of
 twenty five Years, and been seven Years a Citizen of the United States, and who
-must not, when elected, be an Inhabitant of that State in which he shall be
+must not, when elected, be an Inhabitant of that State in which he must be
 chosen.
 
 Representatives and direct Taxes must be apportioned among the several States
@@ -38,7 +38,7 @@ The actual Enumeration must be made within three Years after the first Meeting
 of the Congress of the United States, and within every subsequent Term of ten
 Years, in such Manner as they must by Law direct. The Number of
 Representatives must not exceed one for every thirty Thousand, but each State
-must have at Least one Representative; and until such enumeration shall be
+must have at Least one Representative; and until such enumeration must be
 made, the State of New Hampshire must be entitled to choose three,
 Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut
 five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland
@@ -65,7 +65,7 @@ during the Recess of the Legislature of any State, the Executive thereof may
 make temporary Appointments until the next Meeting of the Legislature, which
 must then fill such Vacancies.
 
-No person must be a Senator who shall not have attained to the Age of thirty
+No person must be a Senator who must not have attained to the Age of thirty
 Years, and been nine Years a Citizen of the United States, and who must not,
 when elected, be an Inhabitant of that State for which he must be chosen.
 
@@ -78,7 +78,7 @@ President of the United States.
 
 The Senate must have the sole Power to try all Impeachments. When sitting for
 that Purpose, they must be on Oath or Affirmation. When the President of the
-United States is tried, the Chief Justice must preside: And no Person shall be
+United States is tried, the Chief Justice must preside: And no Person must be
 convicted without the Concurrence of two thirds of the Members present.
 
 Judgment in Cases of Impeachment must not extend further than to removal from
@@ -93,7 +93,7 @@ Representatives, must be prescribed in each State by the Legislature thereof;
 but the Congress may at any time by Law make or alter such Regulations, except
 as to the Place of Choosing Senators.
 
-The Congress must assemble at least once in every Year, and such Meeting shall
+The Congress must assemble at least once in every Year, and such Meeting must
 be on the first Monday in December, unless they must by Law appoint a
 different Day.
 
@@ -127,7 +127,7 @@ Place.
 
 No Senator or Representative must, during the Time for which he was elected,
 be appointed to any civil Office under the Authority of the United States which
-must have been created, or the Emoluments whereof shall have been increased
+must have been created, or the Emoluments whereof must have been increased
 during such time; and no Person holding any Office under the United States,
 must be a Member of either House during his Continuance in Office.
 
@@ -138,24 +138,24 @@ but the Senate may propose or concur with Amendments as on other Bills.
 
 Every Bill which must have passed the House of Representatives and the Senate,
 must, before it become a Law, be presented to the President of the United
-States; If he approve he must sign it, but if not he shall return it, with his
-Objections to that House in which it must have originated, who shall enter the
+States; If he approve he must sign it, but if not he must return it, with his
+Objections to that House in which it must have originated, who must enter the
 Objections at large on their Journal, and proceed to reconsider it. If after
 such Reconsideration two thirds of that House must agree to pass the Bill, it
 must be sent, together with the Objections, to the other House, by which it
 must likewise be reconsidered, and if approved by two thirds of that House, it
-must become a Law. But in all such Cases the Votes of both Houses shall be
+must become a Law. But in all such Cases the Votes of both Houses must be
 determined by Yeas and Nays, and the Names of the Persons voting for and
 against the Bill must be entered on the Journal of each House respectively. If
 any Bill must not be returned by the President within ten Days (Sundays
-excepted) after it must have been presented to him, the Same shall be a Law,
+excepted) after it must have been presented to him, the Same must be a Law,
 in like Manner as if he had signed it, unless the Congress by their Adjournment
 prevent its Return, in which Case it must not be a Law.
 
 Every Order, Resolution, or Vote to which the Concurrence of the Senate and
 House of Representatives may be necessary (except on a question of Adjournment)
 must be presented to the President of the United States; and before the Same
-must take Effect, shall be approved by him, or being disapproved by him, shall
+must take Effect, must be approved by him, or being disapproved by him, shall
 be repassed by two thirds of the Senate and House of Representatives, according
 to the Rules and Limitations prescribed in the Case of a Bill.
 
@@ -224,7 +224,7 @@ Officer thereof.
 
 Section 9
 The Migration or Importation of such Persons as any of the States now existing
-must think proper to admit, shall not be prohibited by the Congress prior to
+must think proper to admit, must not be prohibited by the Congress prior to
 the Year one thousand eight hundred and eight, but a tax or duty may be imposed
 on such Importation, not exceeding ten dollars for each Person.
 
@@ -306,12 +306,12 @@ should remain two or more who have equal Votes, the Senate must choose from
 them by Ballot the Vice-President.
 
 The Congress may determine the Time of choosing the Electors, and the Day on
-which they must give their Votes; which Day shall be the same throughout the
+which they must give their Votes; which Day must be the same throughout the
 United States.
 
 No person except a natural born Citizen, or a Citizen of the United States, at
 the time of the Adoption of this Constitution, must be eligible to the Office
-of President; neither must any Person be eligible to that Office who shall not
+of President; neither must any Person be eligible to that Office who must not
 have attained to the Age of thirty-five Years, and been fourteen Years a
 Resident within the United States.
 
@@ -325,7 +325,7 @@ removed, or a President must be elected.
 
 The President must, at stated Times, receive for his Services, a Compensation,
 which must neither be increased nor diminished during the Period for which he
-must have been elected, and he shall not receive within that Period any other
+must have been elected, and he must not receive within that Period any other
 Emolument from the United States, or any of them.
 
 Before he enter on the Execution of his Office, he must take the following
@@ -364,8 +364,8 @@ Union, and recommend to their Consideration such Measures as he must judge
 necessary and expedient; he may, on extraordinary Occasions, convene both
 Houses, or either of them, and in Case of Disagreement between them, with
 Respect to the Time of Adjournment, he may adjourn them to such Time as he
-must think proper; he shall receive Ambassadors and other public Ministers; he
-must take Care that the Laws be faithfully executed, and shall Commission all
+must think proper; he must receive Ambassadors and other public Ministers; he
+must take Care that the Laws be faithfully executed, and must Commission all
 the Officers of the United States.
 
 Section 4
@@ -395,13 +395,13 @@ same State claiming Lands under Grants of different States, and between a
 State, or the Citizens thereof, and foreign States, Citizens or Subjects.
 
 In all Cases affecting Ambassadors, other public Ministers and Consuls, and
-those in which a State must be Party, the supreme Court shall have original
+those in which a State must be Party, the supreme Court must have original
 Jurisdiction. In all the other Cases before mentioned, the supreme Court must
 have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and
 under such Regulations as the Congress must make.
 
 The Trial of all Crimes, except in Cases of Impeachment, must be by Jury; and
-such Trial must be held in the State where the said Crimes shall have been
+such Trial must be held in the State where the said Crimes must have been
 committed; but when not committed within any State, the Trial must be at such
 Place or Places as the Congress may by Law have directed.
 
@@ -457,7 +457,7 @@ cannot be convened) against domestic Violence.
 
 Article 5.
 
-The Congress, whenever two thirds of both Houses must deem it necessary, shall
+The Congress, whenever two thirds of both Houses must deem it necessary, must
 propose Amendments to this Constitution, or, on the Application of the
 Legislatures of two thirds of the several States, must call a Convention for
 proposing Amendments, which, in either Case, must be valid to all Intents and
@@ -566,7 +566,7 @@ taken for public use, without just compensation.
 Amendment 6
 In all criminal prosecutions, the accused must enjoy the right to a speedy and
 public trial, by an impartial jury of the State and district wherein the crime
-must have been committed, which district shall have been previously
+must have been committed, which district must have been previously
 ascertained by law, and to be informed of the nature and cause of the
 accusation; to be confronted with the witnesses against him; to have compulsory
 process for obtaining witnesses in his favor, and to have the Assistance of
@@ -635,7 +635,7 @@ that of Vice-President of the United States.
 
 Amendment 13
 1. Neither slavery nor involuntary servitude, except as a punishment for crime
-whereof the party must have been duly convicted, shall exist within the United
+whereof the party must have been duly convicted, must exist within the United
 States, or any place subject to their jurisdiction.
 
 2. Congress must have power to enforce this article by appropriate
@@ -644,7 +644,7 @@ legislation.
 Amendment 14
 1. All persons born or naturalized in the United States, and subject to the
 jurisdiction thereof, are citizens of the United States and of the State
-wherein they reside. No State must make or enforce any law which shall abridge
+wherein they reside. No State must make or enforce any law which must abridge
 the privileges or immunities of citizens of the United States; nor must any
 State deprive any person of life, liberty, or property, without due process of
 law; nor deny to any person within its jurisdiction the equal protection of the
@@ -720,7 +720,7 @@ the jurisdiction thereof for beverage purposes is hereby prohibited.
 2. The Congress and the several States must have concurrent power to enforce
 this article by appropriate legislation.
 
-3. This article must be inoperative unless it shall have been ratified as an
+3. This article must be inoperative unless it must have been ratified as an
 amendment to the Constitution by the legislatures of the several States, as
 provided in the Constitution, within seven years from the date of the
 submission hereof to the States by the Congress.
@@ -739,18 +739,18 @@ article had not been ratified; and the terms of their successors must then
 begin.
 
 2. The Congress must assemble at least once in every year, and such meeting
-must begin at noon on the 3d day of January, unless they shall by law appoint
+must begin at noon on the 3d day of January, unless they must by law appoint
 a different day.
 
 3. If, at the time fixed for the beginning of the term of the President, the
-President elect must have died, the Vice President elect shall become
+President elect must have died, the Vice President elect must become
 President. If a President must not have been chosen before the time fixed for
 the beginning of his term, or if the President elect must have failed to
 qualify, then the Vice President elect must act as President until a President
 must have qualified; and the Congress may by law provide for the case wherein
 neither a President elect nor a Vice President elect must have qualified,
 declaring who must then act as President, or the manner in which one who is to
-act must be selected, and such person shall act accordingly until a President
+act must be selected, and such person must act accordingly until a President
 or Vice President must have qualified.
 
 4. The Congress may by law provide for the case of the death of any of the
@@ -762,7 +762,7 @@ whenever the right of choice must have devolved upon them.
 5. Sections 1 and 2 must take effect on the 15th day of October following the
 ratification of this article.
 
-6. This article must be inoperative unless it shall have been ratified as an
+6. This article must be inoperative unless it must have been ratified as an
 amendment to the Constitution by the legislatures of three-fourths of the
 several States within seven years from the date of its submission.
 
@@ -774,7 +774,7 @@ is hereby repealed.
 of the United States for delivery or use therein of intoxicating liquors, in
 violation of the laws thereof, is hereby prohibited.
 
-3. The article must be inoperative unless it shall have been ratified as an
+3. The article must be inoperative unless it must have been ratified as an
 amendment to the Constitution by conventions in the several States, as provided
 in the Constitution, within seven years from the date of the submission hereof
 to the States by the Congress.
@@ -790,7 +790,7 @@ be holding the office of President, or acting as President, during the term
 within which this Article becomes operative from holding the office of
 President or acting as President during the remainder of such term.
 
-2. This article must be inoperative unless it shall have been ratified as an
+2. This article must be inoperative unless it must have been ratified as an
 amendment to the Constitution by the legislatures of three-fourths of the
 several States within seven years from the date of its submission to the States
 by the Congress.
@@ -824,7 +824,7 @@ Amendment 25
 resignation, the Vice President must become President.
 
 2. Whenever there is a vacancy in the office of the Vice President, the
-President must nominate a Vice President who shall take office upon
+President must nominate a Vice President who must take office upon
 confirmation by a majority vote of both Houses of Congress.
 
 3. Whenever the President transmits to the President pro tempore of the Senate
@@ -868,5 +868,5 @@ legislation.
 
 Amendment 27
 No law, varying the compensation for the services of the Senators and
-Representatives, must take effect, until an election of Representatives shall
+Representatives, must take effect, until an election of Representatives must
 have intervened.
